@@ -1,0 +1,30 @@
+
+Description:
+
+The user may choose a view from a predefined list of views and configure it’s layout by dragging and dropping components from a predefined list of components.
+
+ Requirements:
+
+-          You should develop a single page application using React.js / Vue.js.
+
+-          You should use best practices while developing the app.
+
+-          You should use (and re-use)  react-grid-layout / vue-grid-layout.
+
+-          The application should have 2 views:
+
+1.       Layouts view – Root view
+
+2.       Configuration view
+
+-          The navigation should be URL based, using a router library. (after refresh should remain on the selected layout)
+
+-          The app should have state management mechanism using Redux / Vuex.
+
+-          Good looking design.
+
+-          Usage of Material UI / Vuetify.
+
+-          Custom developed Drag and Drop functionality (without using 3rd parties, such as npm modules).
+
+-          Responsivenes

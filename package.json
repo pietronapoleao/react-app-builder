@@ -1,0 +1,33 @@
+{
+  "name": "create-react-app-example",
+  "version": "0.1.0",
+  "homepage": "test",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-grid-layout": "^0.16.6",
+    "react-html-parser": "^2.0.2",
+    "react-redux": "^7.0.2",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "^2.1.8",
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {},
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
